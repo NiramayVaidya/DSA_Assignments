@@ -1,0 +1,7 @@
+10	abc
+15	bca
+5	cab
+20	abd
+30	adb
+25	dab
+

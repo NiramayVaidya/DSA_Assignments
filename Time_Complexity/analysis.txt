@@ -1,0 +1,8 @@
+theoretical time complexity values for insertion sort- O(n^2), omega(n)
+best case- theta(n), worst case- theta(n^2), average case- theta(n^2)
+theoretical time complexity values for quick sort- O(n^2), omega(n*logn)
+best case- theta(n*logn), worst case- theta(n^2), average case- theta(n*logn)
+
+comparing the average cases of both sorts(theoretical comparison), it is equivalent to comparing the graphs of n^2 and n*logn. For arbitrarily large values of n, the graph of n*logn has a negligible value as compared to that of n^2. 
+
+looking at the graphs graph1 and graph2, it is seen that for arbitrarily large values of input, the time taken by insertion sort increases whereas as compared ot it, the graph of quick sort is almost coincident with the x-axis, meaning time taken by it for the same input is negligible.
